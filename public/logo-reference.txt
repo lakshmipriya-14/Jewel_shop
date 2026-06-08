@@ -1,0 +1,2 @@
+Header + Footer should render /logo.svg. Current file: venus-silver/public/logo.svg
+
